@@ -10,6 +10,8 @@ This is text
 - you
 - serious""")
 
+st.secrets.secret_1
+
 
 
 def fun(a, b):
